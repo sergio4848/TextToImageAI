@@ -1,5 +1,5 @@
 
-# AI Logo and Photo Generator
+# AI Text To Image
 
 This project demonstrates how to develop an AI application that generates logos and photos using Generative Adversarial Networks (GANs). The application includes data collection, model training, and a web interface for user interaction.
 
